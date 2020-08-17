@@ -2640,8 +2640,8 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			width: 40%;
-			max-width: 10rem;
+			width: 80%;
+			max-width: 20rem;
 		}
 
 			.image.left img, .image.right img {
