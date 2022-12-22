@@ -1,0 +1,16 @@
+{
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.matchBrackets": "never",
+    "editor.stickyScroll.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.autoIndent": "none",
+    "javascript.preferences.jsxAttributeCompletionStyle": "none",
+    "typescript.preferences.jsxAttributeCompletionStyle": "none",
+    "typescript.tsc.autoDetect": "off"
+}
