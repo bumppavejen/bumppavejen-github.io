@@ -12,5 +12,6 @@
     "editor.autoIndent": "none",
     "javascript.preferences.jsxAttributeCompletionStyle": "none",
     "typescript.preferences.jsxAttributeCompletionStyle": "none",
-    "typescript.tsc.autoDetect": "off"
+    "typescript.tsc.autoDetect": "off",
+    "editor.wordWrap": "on"
 }
